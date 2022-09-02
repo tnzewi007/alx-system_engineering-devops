@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello (ch(change)(own[ownership]))
+chown betty hello
